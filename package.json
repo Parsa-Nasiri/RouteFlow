@@ -1,0 +1,65 @@
+{
+  "name": "routeflow",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "RouteFlow — a local-first personal productivity OS with a Markdown vault and native AI-agent control",
+  "keywords": [
+    "productivity",
+    "planner",
+    "tasks",
+    "habits",
+    "goals",
+    "pomodoro",
+    "local-first",
+    "ai-agents",
+    "markdown",
+    "react",
+    "typescript",
+    "vite",
+    "tailwindcss"
+  ],
+  "author": "Parsa Nasiri",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parsa-Nasiri/RouteFlow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Parsa-Nasiri/RouteFlow/issues"
+  },
+  "homepage": "https://github.com/Parsa-Nasiri/RouteFlow#readme",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.1.0",
+    "@fontsource-variable/space-grotesk": "^5.1.0",
+    "lucide-react": "^0.454.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/react": "^16.3.2",
+    "@types/node": "^22.20.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "autoprefixer": "^10.4.20",
+    "jsdom": "^25.0.1",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.14",
+    "typescript": "~5.6.3",
+    "vite": "^5.4.10",
+    "vitest": "^2.1.9"
+  }
+}
