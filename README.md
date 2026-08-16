@@ -14,7 +14,7 @@ plain Markdown you (and your AI agent) can read and edit.
 [![Vite 5](https://img.shields.io/badge/Vite-5-646CFF.svg)](https://vitejs.dev)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-0E9F6E.svg)](CONTRIBUTING.md)
 
-[Getting started](#-getting-started) · [AI-native](#-ai-native-by-design) · [The vault](#-your-data-as-markdown) · [Architecture](#-architecture) · [Docs](#-documentation)
+[Getting started](#-getting-started) · [Screenshots](#-screenshots) · [AI-native](#-ai-native-by-design) · [The vault](#-your-data-as-markdown) · [Architecture](#-architecture) · [Docs](#-documentation)
 
 </div>
 
@@ -45,6 +45,52 @@ system for your day** where:
 | **Focus** | Pomodoro timer (25/45/60 + breaks), task/goal linking, logged sessions, finish-early-and-log, zen mode, tab-title countdown |
 | **Analytics** | 7/30-day task & focus trends, habit heatmaps, goal bars, most productive weekday & time band — all computed live |
 | **Settings** | Light/dark/system theme, profile & working hours, focus target, JSON export, validated import, reset, onboarding restart |
+
+## 📸 Screenshots
+
+Dark mode throughout, filled with a (very ambitious) demo vault — every screen below is real, running data.
+
+### Today dashboard
+
+<p align="center">
+  <img src="docs/screenshots/today.png" alt="RouteFlow Today dashboard in dark mode: greeting with primary goal, Today score ring with task/habit/focus/schedule breakdown, today's tasks with due times, habit check-offs with streaks, goal progress bars and a schedule timeline" width="94%">
+</p>
+
+### Tasks & Planner
+
+<p align="center">
+  <img src="docs/screenshots/tasks-board.png" alt="Tasks kanban board with Backlog, Today, In Progress and Done columns, drag-and-drop cards with priority dots, category chips and due labels" width="47.2%">
+  &nbsp;
+  <img src="docs/screenshots/planner.png" alt="Weekly planner grid with color-coded time blocks (deep work, meetings, exercise, personal, study), a live now-line and outline task pills" width="47.2%">
+</p>
+
+<p align="center"><b>Tasks</b> — kanban board, filters & search&nbsp;&nbsp;·&nbsp;&nbsp;<b>Planner</b> — drag/resize time blocks across the week</p>
+
+### Focus & Habits
+
+<p align="center">
+  <img src="docs/screenshots/focus.png" alt="Focus mode with a Pomodoro progress ring, 25/45/60 minute presets, task and goal linking, and today's logged sessions" width="47.2%">
+  &nbsp;
+  <img src="docs/screenshots/habits.png" alt="Habit cards with emoji icons, weekly completion grids, current and best streaks and completion percentages" width="47.2%">
+</p>
+
+<p align="center"><b>Focus</b> — Pomodoro timer with zen mode&nbsp;&nbsp;·&nbsp;&nbsp;<b>Habits</b> — streaks & weekly grids</p>
+
+### Goals & Analytics
+
+<p align="center">
+  <img src="docs/screenshots/goals.png" alt="Goals screen with progress rings, category colors, target dates and milestone counts" width="47.2%">
+  &nbsp;
+  <img src="docs/screenshots/analytics.png" alt="Analytics with stat cards, task completion bar chart, focus minutes trend, habit consistency heatmap and most productive day and time" width="47.2%">
+</p>
+
+<p align="center"><b>Goals</b> — milestone-driven progress&nbsp;&nbsp;·&nbsp;&nbsp;<b>Analytics</b> — 7/30-day trends & your peak hours</p>
+
+### Settings
+
+<p align="center">
+  <img src="docs/screenshots/settings.png" alt="Settings screen with theme picker (light/dark/system), profile and working hours, focus target, agent API sync status and data export, import and reset actions" width="94%">
+</p>
 
 ## 🚀 Getting started
 
